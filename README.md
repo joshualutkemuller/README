@@ -1,5 +1,5 @@
 # README
-Hi There!  Seasoned investment professional with a full-stack data science skill set (Python, R, SQL, SAS and PowerBi/Tableau for DataViz) that I use to enhance corporate decision making. I have the ability to approach problems and dilemmas with a viewpoint influenced by my diverse public and military experience.
+Hi There!  
 
 Seasoned investment professional with a full-stack data science skill set (Python, R, SQL, SAS and PowerBi/Tableau for DataViz) that I use to enhance corporate decision making. I have the ability to approach problems and dilemmas with a viewpoint influenced by my diverse public and military experience.
 
